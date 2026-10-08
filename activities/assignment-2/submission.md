@@ -40,7 +40,6 @@ Number of addresses in that CIDR:
 
 Screenshot 1. Save it as `screenshot-1-subnets.png` in your folder. The image line below shows it.
 
-![Screenshot 1: subnet list](screenshot-1-subnets.png)
 <img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/29e3246b-17c8-4a32-a03c-d12f4bc7cf95" />
 
 
@@ -67,7 +66,6 @@ AWS reserves them for IP routing, DNS, and network management within the subnet.
 
 Screenshot 2. Save it as `screenshot-2-routes.png` in your folder. The image line below shows it.
 
-![Screenshot 2: routes of the route table](screenshot-2-routes.png)
 <img width="1517" height="670" alt="image" src="https://github.com/user-attachments/assets/ab55189d-75ef-4aa5-9615-f51495cc42da" />
 
 
@@ -110,7 +108,6 @@ Network ACLs act as a stateless firewall at the subnet level and support deny ru
 
 Screenshot 3. Save it as `screenshot-3-network-acl.png` in your folder. The image line below shows it.
 
-![Screenshot 3: inbound rules of the network ACL](screenshot-3-network-acl.png)
 <img width="1516" height="693" alt="image" src="https://github.com/user-attachments/assets/5442bc31-3f83-4ac1-8b67-90b6da621194" />
 
 ### A9. The default security group
@@ -155,7 +152,6 @@ Excalidraw
 
 Save your diagram as `vpc-diagram.png` in your folder. The image line below shows it.
 
-![B3: my VPC diagram](vpc-diagram.png)
 <img width="927" height="543" alt="image" src="https://github.com/user-attachments/assets/e7e461f0-cd3a-432a-a5c9-43be9af386cc" />
 
 ### B4. Predict a change
